@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8LCFNjCCFYZ7Pw4G7ycLTHYfPbOd4",
+    "object": "chat.completion",
+    "created": 1700062657,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Hacer pan casero puede ser un proceso largo y requiere paciencia, pero aquí te dejo una receta básica para hacer pan:\n\nIngredientes:\n- 500 gramos de harina de trigo\n- 10 gramos de sal\n- 10 gramos de levadura fresca (o 5 gramos de levadura"
+            },
+            "finish_reason": "length"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 13,
+        "completion_tokens": 75,
+        "total_tokens": 88
+    }
+}

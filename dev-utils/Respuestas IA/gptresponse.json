@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8JvnbmYGHCISHydQMKtUZ3KM3Wjtu",
+    "object": "chat.completion",
+    "created": 1699761103,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Un buen consejo para iniciar bien el día es empezar con una actitud positiva. Antes de levantarte de la cama, tómate unos minutos para respirar profundamente y expresar gratitud por todo lo positivo en tu vida. Visualiza cómo quieres que sea tu día antes de comenzarlo y establece una intención positiva para ti misma.\n\nAdemás, es importante establecer una rutina matutina que te ayude a sentirte en control y preparada para el día. Esto puede incluir hacer ejercicio, meditar, desayunar de manera saludable o simplemente tomarte unos minutos para relajarte y planificar tu día.\n\nNo olvides que cada día es una oportunidad para crecer y aprender. Asume los desafíos con una mentalidad de aprendizaje y no te desanimes si las cosas no salen como esperabas. Recuerda que puedes aprender de los errores y convertirlos en oportunidades de crecimiento.\n\nFinalmente, recuerda cuidar de ti misma. Tómate el tiempo para hacer algo que te haga feliz todos los días, ya sea leer un libro, escuchar música, pasar tiempo al aire libre o disfrutar de una afición. Cuanto más te cuides y te ames a ti misma, mejor estarás preparada para cuidar y amar a tus estudiantes.\n\n¡Que tengas un maravilloso día!"
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 54,
+        "completion_tokens": 301,
+        "total_tokens": 355
+    }
+}

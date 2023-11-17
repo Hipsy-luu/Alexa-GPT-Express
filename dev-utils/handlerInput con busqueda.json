@@ -1,0 +1,117 @@
+{
+    "requestEnvelope": {
+        "version": "1.0",
+        "session": {
+            "new": false,
+            "sessionId": "amzn1.echo-api.session.7d9c6acb-c775-4fab-b840-294c9a8fff7a",
+            "application": {
+                "applicationId": "amzn1.ask.skill.29210251-e113-4f36-8de7-358d2c295a03"
+            },
+            "attributes": {},
+            "user": {
+                "userId": "amzn1.ask.account.AEBANYZKIKX7M3BLWJCT5TPXUVMZM42PIVNWH2FSTXKN2AV62XE3GDXM3AXC7EN4UEJXN3K32AKOWTXHVHOAMZ2SWIDDC46RQZTBEU6V2JPNSRW7JNKAP4PV2YRCCABGFIWPSUWBFZUMCBWBY57CBNAPMBINMH3ITL6UYKUN2CF4GNOTT5BPKEJ7LGHYAQFNEZDNCTW66DQNDGY"
+            }
+        },
+        "context": {
+            "Viewports": [
+                {
+                    "type": "APL",
+                    "id": "main",
+                    "shape": "RECTANGLE",
+                    "dpi": 213,
+                    "presentationType": "STANDARD",
+                    "canRotate": false,
+                    "configuration": {
+                        "current": {
+                            "mode": "HUB",
+                            "video": {
+                                "codecs": [
+                                    "H_264_42",
+                                    "H_264_41"
+                                ]
+                            },
+                            "size": {
+                                "type": "DISCRETE",
+                                "pixelWidth": 1280,
+                                "pixelHeight": 800
+                            }
+                        }
+                    }
+                }
+            ],
+            "Viewport": {
+                "experiences": [
+                    {
+                        "arcMinuteWidth": 346,
+                        "arcMinuteHeight": 216,
+                        "canRotate": false,
+                        "canResize": false
+                    }
+                ],
+                "mode": "HUB",
+                "shape": "RECTANGLE",
+                "pixelWidth": 1280,
+                "pixelHeight": 800,
+                "dpi": 213,
+                "currentPixelWidth": 1280,
+                "currentPixelHeight": 800,
+                "touch": [
+                    "SINGLE"
+                ],
+                "video": {
+                    "codecs": [
+                        "H_264_42",
+                        "H_264_41"
+                    ]
+                }
+            },
+            "Extensions": {
+                "available": {
+                    "aplext:backstack:10": {}
+                }
+            },
+            "Advertising": {
+                "advertisingId": "00000000-0000-0000-0000-000000000000",
+                "limitAdTracking": true
+            },
+            "System": {
+                "application": {
+                    "applicationId": "amzn1.ask.skill.29210251-e113-4f36-8de7-358d2c295a03"
+                },
+                "user": {
+                    "userId": "amzn1.ask.account.AEBANYZKIKX7M3BLWJCT5TPXUVMZM42PIVNWH2FSTXKN2AV62XE3GDXM3AXC7EN4UEJXN3K32AKOWTXHVHOAMZ2SWIDDC46RQZTBEU6V2JPNSRW7JNKAP4PV2YRCCABGFIWPSUWBFZUMCBWBY57CBNAPMBINMH3ITL6UYKUN2CF4GNOTT5BPKEJ7LGHYAQFNEZDNCTW66DQNDGY"
+                },
+                "device": {
+                    "deviceId": "amzn1.ask.device.AHH6UK73MHJXYH6QE4FY35TL4VTXT5XY35UOLRQ6QZH664WEFWZPPGZCOSU74M7453FPQGQ5N3JMFQJJVY4OK64X7CMWXLGXDGZEWWOVB7TTEIR5M2EAK6D6BD3EM5WV4W6A5SMXEAWYWS23XOYEI25ENISQPKDWKDIZH43IUXXCRLTJLD5KI",
+                    "supportedInterfaces": {}
+                },
+                "apiEndpoint": "https://api.amazonalexa.com",
+                "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjI5MjEwMjUxLWUxMTMtNGYzNi04ZGU3LTM1OGQyYzI5NWEwMyIsImV4cCI6MTY5OTkyODcxNSwiaWF0IjoxNjk5OTI4NjU1LCJuYmYiOjE2OTk5Mjg2NTUsInByaXZhdGVDbGFpbXMiOnsiY29udGV4dCI6IkFBQUFBQUFBQUFENFFRaENwQjl3cE44L2UzU2kzd00rVFFFQUFBQUFBQURBbzVnZlB2K2dCOG5MUGtoS2x5OW52a1RnWlRqY3FEOE5IOXhITmJFcXZYRUZqdGIxZHovNlVmOUg1TTY3OTBHaFNqMTFDTm9xS0F4WHpROFVoSjhoWEg2WUlQdG5TQWpUTFB4YzhmQnQ1U1UvU09CTEk0VVNCYktHM2c4WVEyRjNMQzYzdWUrRDNJcWhXMmlPV0drTDhpSGswZUV3NURNUFh4c3JMa1krMDFXdmdJQ0JTa3ZIbVRzMXU2OHpUSm5PUUg4ZlhFVUg5d3lHNDZxYTB5S3hEaGhPRGFiTWZ1dGJmNWcwVlVrV1o1ajhHVkUwNTdOVjdNaDFsWTJpVFoxOHRmTjNCOXlGUndjK1VmeHRxTFF5WFVUcTlpd1poQzhUZTRYMllaUUd3NzBLLzhDSUVSbmZKVkk3MXpRaE5RNm1lZjU2c2k4UThPb040MDcvTVY2R2p5cXkxWGMrYklMN25GUkZnNDMwN3JIS1BZdXUvMjArcGJ4dTYzOTRNN0lhcTdaclJHS0d2SnQ3eTRFNjlFMHBBZWJiMDIvandMVUFyckxCdm93aEh3N1l5bWZZM1FFUnZzMUJKcEU9IiwiZGV2aWNlSWQiOiJhbXpuMS5hc2suZGV2aWNlLkFISDZVSzczTUhKWFlINlFFNEZZMzVUTDRWVFhUNVhZMzVVT0xSUTZRWkg2NjRXRUZXWlBQR1pDT1NVNzRNNzQ1M0ZQUUdRNU4zSk1GUUpKVlk0T0s2NFg3Q01XWExHWERHWkVXV09WQjdUVEVJUjVNMkVBSzZENkJEM0VNNVdWNFc2QTVTTVhFQVdZV1MyM1hPWUVJMjVFTklTUVBLRFdLRElaSDQzSVVYWENSTFRKTEQ1S0kiLCJ1c2VySWQiOiJhbXpuMS5hc2suYWNjb3VudC5BRUJBTllaS0lLWDdNM0JMV0pDVDVUUFhVVk1aTTQyUElWTldIMkZTVFhLTjJBVjYyWEUzR0RYTTNBWEM3RU40VUVKWE4zSzMyQUtPV1RYSFZIT0FNWjJTV0lEREM0NlJRWlRCRVU2VjJKUE5TUlc3Sk5LQVA0UFYyWVJDQ0FCR0ZJV1BTVVdCRlpVTUNCV0JZNTdDQk5BUE1CSU5NSDNJVEw2VVlLVU4yQ0Y0R05PVFQ1QlBLRUo3TEdIWUFRRk5FWkROQ1RXNjZEUU5ER1kifX0.Y9noVp1yf0XOmb5-K8maMVOUNVpOsl0ub_Irpt6JsNejVN0Z-SESvnj8TdF2_zlHZNEmgA3JOfyZZrnurbiNaOoq6rmZPkfdkKQ5oY2rIQ3354KHYRQShA_9Dnfz_CCs94sLriy4YnWpjAVnbkWr3VQ5COBxAPjW41IJ4MA78cGukB_TUD8R0fYG2PuSeZ5ilNa9DfAthS5YWyQQX4lVBlFSfmFeBfm_CDpCKxstU6VJTy2OEcgZNkn7xyeK4x2aG3hktdkCtxBvRaHgmJLFJnbkY4Kw2nFsuC_6YhWHl_TdRbMovOiKRNHNGl8d5WPYVtXY0J6kvJ9Pd3I1SKc8fA"
+            }
+        },
+        "request": {
+            "type": "IntentRequest",
+            "requestId": "amzn1.echo-api.request.dbe31fb6-4de9-4194-a787-0c0399418913",
+            "locale": "es-MX",
+            "timestamp": "2023-11-14T02:24:15Z",
+            "intent": {
+                "name": "ChatIntent",
+                "confirmationStatus": "NONE",
+                "slots": {
+                    "any": {
+                        "name": "any",
+                        "value": "cual es la capital de paris",
+                        "confirmationStatus": "NONE",
+                        "source": "USER",
+                        "slotValue": {
+                            "type": "Simple",
+                            "value": "cual es la capital de paris"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "attributesManager": {},
+    "responseBuilder": {}
+}

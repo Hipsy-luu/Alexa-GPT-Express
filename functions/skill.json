@@ -1,0 +1,114 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "tengo dudas",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": [
+                        "nueva",
+                        "nueva consulta",
+                        "cancelar",
+                        "ok gracias"
+                    ]
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "como se usa",
+                        "dime las instrucciones",
+                        "instrucciones",
+                        "que puedes hacer"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": [
+                        "cerrar",
+                        "detente gracias",
+                        "detener consulta"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": [
+                        "iniciar",
+                        "inicio"
+                    ]
+                },
+                {
+                    "name": "ConsultarIntent",
+                    "slots": [],
+                    "samples": [
+                        "que respondio",
+                        "dime el resultado",
+                        "respuesta",
+                        "resultado",
+                        "consultar"
+                    ]
+                },
+                {
+                    "name": "ChatIntent",
+                    "slots": [
+                        {
+                            "name": "any",
+                            "type": "AMAZON.Person"
+                        }
+                    ],
+                    "samples": [
+                        "{any}"
+                    ]
+                },
+                {
+                    "name": "ActualIntent",
+                    "slots": [],
+                    "samples": [
+                        "ultima pregunta",
+                        "ultima consulta",
+                        "que entendiste",
+                        "que dije",
+                        "que pregunte",
+                        "consulta actual"
+                    ]
+                },
+                {
+                    "name": "HelpNextStepIntent",
+                    "slots": [],
+                    "samples": [
+                        "adelante",
+                        "por favor",
+                        "si"
+                    ]
+                },
+                {
+                    "name": "ActivateInfiniteIntent",
+                    "slots": [],
+                    "samples": [
+                        "modo sin limites",
+                        "desactivar limite"
+                    ]
+                },
+                {
+                    "name": "DeactivateInfiniteIntent",
+                    "slots": [],
+                    "samples": [
+                        "limitar",
+                        "activar limite",
+                        "activar limites",
+                        "modo limitado",
+                        "modo con limites"
+                    ]
+                },
+                {
+                    "name": "TellConfigIntent",
+                    "slots": [],
+                    "samples": [
+                        "estatus",
+                        "configuracion"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}

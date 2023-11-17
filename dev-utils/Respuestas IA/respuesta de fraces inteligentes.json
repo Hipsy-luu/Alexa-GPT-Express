@@ -1,0 +1,21 @@
+{
+    "id": "chatcmpl-8JvycX0pG5aAL1G7vK8IWzG1UmxXF",
+    "object": "chat.completion",
+    "created": 1699761786,
+    "model": "gpt-3.5-turbo-0613",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. \"Perdona, pero creo que has confundido tu presunción con evidencia científica.\"\n2. \"Entiendo que tu opinión sea importante, pero ¿podrías respaldarla con hechos concretos?\"\n3. \"Interesante teoría, pero me encantaría escuchar cómo llegaste a esa conclusión.\"\n4. \"Disculpa si me pierdo en tu argumento, ¿podrías resumirlo en una oración coherente?\"\n5. \"¿Podemos debatir hechos reales en lugar de opiniones inventadas?\"\n6. \"Oh, disculpa, pensé que estábamos discutiendo con lógica, no con suposiciones.\"\n7. \"Me alegra que tengas tanta confianza en tu argumento, ¿pero podrías explicarlo de forma más clara?\"\n8. \"Es curioso cómo usas palabras complicadas para intentar confundir en lugar de persuadir.\"\n9. \"Creo que estás confundiendo la realidad con tu imaginación brillante.\"\n10. \"¡Wow! Tu argumento tiene tantos agujeros que podría usarse como colador.\""
+            },
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 31,
+        "completion_tokens": 258,
+        "total_tokens": 289
+    }
+}
